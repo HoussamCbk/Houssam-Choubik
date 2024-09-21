@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Houssam-Choubik/static/css/main.d7ba0168.css",
+    "main.js": "/Houssam-Choubik/static/js/main.709a2b48.js",
+    "static/media/img1.jpg": "/Houssam-Choubik/static/media/img1.af0f4ea8f570ef5c64bf.jpg",
+    "static/media/logoensam.png": "/Houssam-Choubik/static/media/logoensam.af334c4dcab486a73791.png",
+    "index.html": "/Houssam-Choubik/index.html",
+    "main.d7ba0168.css.map": "/Houssam-Choubik/static/css/main.d7ba0168.css.map",
+    "main.709a2b48.js.map": "/Houssam-Choubik/static/js/main.709a2b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ba0168.css",
+    "static/js/main.709a2b48.js"
+  ]
+}
